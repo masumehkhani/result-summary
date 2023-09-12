@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .bg-hsl-cobalt-bluea {
+  
+    background-color: hsla(241, 81%, 54%,0.8);
+  }
+.bg-hsl-cobalt-blue {
+  
+    background-color: hsl(241, 81%, 54%);
+  } 
+  .bg-hsl-pale-blue{
+    background-color: hsl(221, 100%, 96%)
+  } */
+
+  .bg-hsl-Light-lavender{
+    background-color: hsl(241, 100%, 89% );
+  }
+.font-size{
+  font-size: 18px;
+}
+
